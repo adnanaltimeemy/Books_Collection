@@ -1,0 +1,14 @@
+Title,Year,Platform,Format,Units_Sold,Revenue_USD,Royalty_USD,Average_Price,Sales_Velocity,Season,Audience_Age_Group,Primary_Market,Customer_Acquisition_Cost,Average_Rating,Inventory_Produced,Inventory_Sold
+It,2023,Amazon KDP,Ebook,320000,1276800,893760,3.99,Increasing,Autumn,25-44,US,0.85,4.6,0,0
+It,2023,IngramSpark,Paperback,85000,1275000,637500,15.00,Stable,Autumn,35-54,US,1.20,4.6,100000,85000
+It,2023,Audible,Audiobook,140000,1960000,784000,14.00,Increasing,Winter,30-49,US,1.50,4.7,0,0
+The Shining,2023,Amazon KDP,Ebook,210000,837900,586530,3.99,Stable,Summer,25-44,US,0.75,4.5,0,0
+The Shining,2023,IngramSpark,Hardcover,42000,1050000,525000,25.00,Decreasing,Summer,35-60,US,1.30,4.5,60000,42000
+The Shining,2023,Audible,Audiobook,165000,2475000,990000,15.00,Increasing,Winter,30-55,US,1.60,4.8,0,0
+Carrie,2023,Amazon KDP,Ebook,180000,718200,502740,3.99,Stable,Spring,18-34,US,0.65,4.4,0,0
+Carrie,2023,IngramSpark,Paperback,51000,765000,382500,15.00,Stable,Spring,25-44,US,1.10,4.4,70000,51000
+Misery,2023,Amazon KDP,Ebook,155000,618450,432915,3.99,Stable,Winter,30-55,US,0.80,4.7,0,0
+Misery,2023,Audible,Audiobook,98000,1470000,588000,15.00,Increasing,Winter,35-60,US,1.45,4.8,0,0
+Pet Sematary,2023,Amazon KDP,Ebook,195000,778050,544635,3.99,Increasing,Autumn,25-44,US,0.78,4.6,0,0
+Pet Sematary,2023,IngramSpark,Paperback,62000,930000,465000,15.00,Stable,Autumn,35-54,US,1.15,4.6,80000,62000
+Pet Sematary,2023,Audible,Audiobook,125000,1875000,750000,15.00,Increasing,Winter,30-55,US,1.55,4.7,0,0
